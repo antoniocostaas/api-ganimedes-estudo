@@ -1,6 +1,6 @@
-defmodule Teste do
+defmodule Ganimedes do
   @moduledoc """
-  Documentation for `Teste`.
+  Documentation for `Ganimedes`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Teste do
 
   ## Examples
 
-      iex> Teste.hello()
+      iex> Ganimedes.hello()
       :world
 
   """
