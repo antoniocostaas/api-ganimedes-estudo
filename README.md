@@ -1,4 +1,4 @@
-# Ganimedes
+# GANIMEDES
 
 **TODO: Add description**
 
