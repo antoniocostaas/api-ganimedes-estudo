@@ -1,4 +1,4 @@
-defmodule Ganimede do
+defmodule Ganimedes do
   @moduledoc """
   Documentation for `Ganimedes`.
   """
